@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mahak Goyal
 ===================================================================================================================================
 
-Problem solver, Web developer, Cloud and Blockchain Enthusiast,
+Data Engineer and AI enthusiast
 ---------------------------------------------------------------
 
-Hello, It's wonderful that you found my profile, either by my resume or being my friend. Till now I do not have a code repo here which can make my GitHub profile viral, but I do upload stuff that I am learning or researching about. So if you want what I am up to, you can just check the last repo and know what I am doing right now. if we talk about my Subtitle that says all the big cheesy words, and you might say that I might be lying. but I can assure you that it is TRUE. I like to consider myself a problem solver as I do not learn a tech first and get limited to that and try to use it even if it does not produce any meaningful result. Rather I believe that, I should have a problem statement first and what kind of solution you are looking for. for example, in my last project, client had a requirement to develop website as soon as possible to replace their internal workflow. For this, he gave us Appian (A low code webapp development platform). So I learned Appian and delivered the same. for the same project, it was needed to develop a system which works on serverless technologies only. So I learned AWS Lambda and all the related things. So what I want to say it, Give me a problem statement and I will solve it with the best tech possible. That's all about me and how I think.
+Hello, It's wonderful that you found my profile by my resume or being my friend. Until now, I do not have a code repo here that can make my GitHub profile viral, but I do upload stuff I am learning or researching about. So if you want what I am up to, you can just check the last repo and know what I am doing right now. if we talk about my Subtitle that says all the big cheesy words, you might say that I might be lying. but I can assure you that it is TRUE. I like to consider myself a problem solver as I do not learn a tech first and get limited to that and try to use it even if it does not produce any meaningful result. Rather I believe that I should have a problem statement first and what kind of solution you are looking for. for example, in my last project, the client had a requirement to develop a website as soon as possible to replace their internal workflow. For this, he gave us Appian (A low code webapp development platform). So I learned Appian and delivered the same. for the same project, it was needed to develop a system that works on serverless technologies only. So I learned AWS Lambda and all the related things. So what I want to say is, Give me a problem statement and I will solve it with the best tech possible. That's all about me and how I think.
 
 * 🌍  I'm based in Indore, India
 * ✉️  You can contact me at [mahakg290399@gmail.com](mailto:mahakg290399@gmail.com)
-* 🧠  I'm learning DSA and React
+* 🧠  I'm learning DSA and Data Modelling
 * 🤝  I'm open to collaborating on Cloud or Blockchain project
 
 <a href="https://www.twitter.com/mahakdgoyal" target="_blank" rel="noreferrer"><img
