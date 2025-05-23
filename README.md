@@ -19,7 +19,6 @@ src="https://img.shields.io/github/followers/mahakg290399?logo=github&style=for-
 ### Skills
 
 <p align="left">
-
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/python.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/mongodb.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/mysql.svg" width="36" height="36" alt="MySQL" /></a>
