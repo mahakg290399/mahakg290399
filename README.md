@@ -20,10 +20,13 @@ src="https://img.shields.io/github/followers/mahakg290399?logo=github&style=for-
 
 <p align="left">
 
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/python.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/mongodb.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/mysql.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/flask.svg" width="36" height="36" alt="Flask" /></a>
+<a href="https://hive.apache.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/apachehive.svg" width="36" height="36" alt="Hive" /></a>
+<a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/apachehadoop.svg" width="36" height="36" alt="Hadoop" /></a>
+<a href="https://spark.apache.org/docs/latest/api/python/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/apachespark.svg" width="36" height="36" alt="PySpark" /></a>
 </p>
 
 
