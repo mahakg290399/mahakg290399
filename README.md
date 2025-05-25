@@ -19,13 +19,13 @@ src="https://img.shields.io/github/followers/mahakg290399?logo=github&style=for-
 ### Skills
 
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/python.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/mongodb.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/mysql.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/flask.svg" width="36" height="36" alt="Flask" /></a>
-<a href="https://hive.apache.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/apachehive.svg" width="36" height="36" alt="Hive" /></a>
-<a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/apachehadoop.svg" width="36" height="36" alt="Hadoop" /></a>
-<a href="https://spark.apache.org/docs/latest/api/python/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/apachespark.svg" width="36" height="36" alt="PySpark" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="36" height="36" alt="Flask" /></a>
+<a title="Davod, Apache License 2.0 &lt;http://www.apache.org/licenses/LICENSE-2.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Apache_Hive_logo.svg"><img width="36" alt="Apache Hive logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Apache_Hive_logo.svg/512px-Apache_Hive_logo.svg.png?20151020034510"></a>
+<a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="36" height="36" alt="Hadoop" /></a>
+<a href="https://spark.apache.org/docs/latest/api/python/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="36" height="36" alt="PySpark" /></a>
 </p>
 
 
