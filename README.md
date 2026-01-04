@@ -50,8 +50,3 @@ My philosophy is simple: **Solve the problem first, choose the tech second.** I 
 <a href="http://www.medium.com/@mahakg290399" target="_blank"><img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
-### 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=mahakg290399&show_icons=true&theme=tokyonight" height="150" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahakg290399&layout=compact&theme=tokyonight" height="150" alt="Top Languages" />
-</p>
